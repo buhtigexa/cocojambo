@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/tika-app-0.9.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/lucene-3.3.0/lucene-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/lucene-3.3.0/lucene-core-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/commons-io-2.0.1/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/commons-io-2.0.1/commons-io-2.0.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/weka-3-6-5/weka.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/weka-3-6-5/weka-src.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/jsoup-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/jsoup-1.6.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/lucene-3.3.0/contrib/highlighter/lucene-highlighter-3.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/Proyectos/lib/lucene-3.3.0/contrib/highlighter/lucene-highlighter-3.3.0-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
